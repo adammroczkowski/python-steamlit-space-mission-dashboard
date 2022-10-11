@@ -6,4 +6,4 @@ Space Mission built in Python and the Streamlit library to visualize Excel data.
 
 ## Run the app
 ```Terminal
-streamlit run app.py
+streamlit run main.py
